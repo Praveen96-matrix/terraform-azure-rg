@@ -3,7 +3,7 @@ name: Terraform Azure RG
 on:
   push:
     branches:
-      - main
+      # main
 
 jobs:
   terraform:
